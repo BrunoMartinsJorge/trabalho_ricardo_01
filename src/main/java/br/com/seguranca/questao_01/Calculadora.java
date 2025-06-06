@@ -5,6 +5,8 @@ import lombok.Data;
 @Data
 public class Calculadora {
 
+    private Integer num;
+
     public float somar(float a, float b) {
         return a + b;
     }
