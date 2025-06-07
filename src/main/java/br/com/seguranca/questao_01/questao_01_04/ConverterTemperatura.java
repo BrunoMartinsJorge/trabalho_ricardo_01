@@ -1,4 +1,4 @@
-package br.com.seguranca.questao_01;
+package br.com.seguranca.questao_01.questao_01_04;
 
 public class ConverterTemperatura {
 
@@ -9,6 +9,4 @@ public class ConverterTemperatura {
     public float coverterTemperaturaParaC(float temperatura){
         return (temperatura - 32) * 5/9;
     }
-    //Celsius → Fahrenheit: F = (C * 9/5) + 32
-    //Fahrenheit → Celsius: C = (F - 32) * 5/9
 }

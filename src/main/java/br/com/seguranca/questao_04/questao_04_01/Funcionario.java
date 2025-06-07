@@ -1,4 +1,4 @@
-package br.com.seguranca.questao_04;
+package br.com.seguranca.questao_04.questao_04_01;
 
 import lombok.Data;
 

@@ -1,4 +1,4 @@
-package br.com.seguranca.questao_01;
+package br.com.seguranca.questao_01.questao_01_03;
 
 public class Fatorial {
 

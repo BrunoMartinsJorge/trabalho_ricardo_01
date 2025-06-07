@@ -1,4 +1,4 @@
-package br.com.seguranca.questao_03;
+package br.com.seguranca.questao_03.questao_03_01;
 
 import lombok.Data;
 
@@ -8,7 +8,7 @@ public class Numero {
     public int atributo;
 
     public void imprimir(){
-        System.out.println(atributo);
+        System.out.printf("O valor é de: %d\n", atributo);
     }
 
     @Override

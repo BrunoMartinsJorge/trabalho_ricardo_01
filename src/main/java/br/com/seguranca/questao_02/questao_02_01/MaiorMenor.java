@@ -1,4 +1,4 @@
-package br.com.seguranca.questao_02;
+package br.com.seguranca.questao_02.questao_02_01;
 
 public class MaiorMenor {
 
