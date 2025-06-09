@@ -5,8 +5,8 @@
 
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.seuprojeto</groupId>
-    <artifactId>lombok-java-puro</artifactId>
+    <groupId>com.trabalho_poo</groupId>
+    <artifactId>trabalho_poo_01</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
