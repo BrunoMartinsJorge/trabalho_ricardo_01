@@ -1,4 +1,4 @@
-# Trabalho de Linguagem de Programação
+# Trabalho de Linguagem de Programação : Bruno Martins Jorge 2º ADS turma 2
 
 ## Lista de Exercícios - POO 01
 
